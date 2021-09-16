@@ -1,5 +1,6 @@
 # MaskRCNN-ADABINS
-Algorithm that segments balloons and displays the depth of its center. 
+Algorithm that segments balloons and displays the real world 3D coordinates of it.
+
 It also includes code to display webcam from googlecolab
 
 Work In Progress.
